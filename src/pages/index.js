@@ -8,6 +8,7 @@ export default function Home() {
             <Header headerText="modern ancient" />
             <h2>Home</h2>
             <ul>
+              <li><Link to="/home/">Home</Link></li>
               <li><Link to="/about/">About</Link></li>
               <li><Link to="/philosophy/">Philosophy</Link></li>
             </ul>
