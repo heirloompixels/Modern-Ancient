@@ -3,7 +3,7 @@ import Header from "../components/header"
 
 export default function About() {
   return (
-    <div style={}>
+    <div>
       <Header />
     
 <h1>Experiments in time and memory. </h1>
